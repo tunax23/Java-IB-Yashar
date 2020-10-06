@@ -61,7 +61,7 @@ public class Mock
 				double decans = 1.0 / ans;
 				System.out.println( "  1" );
 				System.out.println("---- = " + decans);
-				System.out.println( " " + n2 );
+				System.out.println( " " + n1 + "^" + n2*-1);
 			}
 		}
 		System.out.println("Program ended");
